@@ -1,0 +1,20 @@
+PODS:
+  - RealReachability (1.2.0):
+    - RealReachability/Connection (= 1.2.0)
+    - RealReachability/Ping (= 1.2.0)
+  - RealReachability/Connection (1.2.0)
+  - RealReachability/Ping (1.2.0)
+
+DEPENDENCIES:
+  - RealReachability
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - RealReachability
+
+SPEC CHECKSUMS:
+  RealReachability: 5e4759f821ecc1c03f6e1db0baf682ef59468b5f
+
+PODFILE CHECKSUM: d8e1ab2964247bd121dceb1e84685d4a01a2df8c
+
+COCOAPODS: 1.5.2
